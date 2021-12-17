@@ -8,6 +8,7 @@ const App = () => {
 
   const DeleteExpenseHandler = (key) => {
     console.log("done App.js");
+    
     setExpenses(prevExpenses =>{
       const newExpense = prevExpenses.filter( (expense) => expense.id !== key )
 
