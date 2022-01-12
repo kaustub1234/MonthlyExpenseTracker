@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MonthlyExpenseTracker/static/css/main.de05927a.chunk.css",
+    "main.js": "/MonthlyExpenseTracker/static/js/main.ea562fdb.chunk.js",
+    "main.js.map": "/MonthlyExpenseTracker/static/js/main.ea562fdb.chunk.js.map",
+    "runtime-main.js": "/MonthlyExpenseTracker/static/js/runtime-main.c0cfb816.js",
+    "runtime-main.js.map": "/MonthlyExpenseTracker/static/js/runtime-main.c0cfb816.js.map",
+    "static/js/2.4b60e684.chunk.js": "/MonthlyExpenseTracker/static/js/2.4b60e684.chunk.js",
+    "static/js/2.4b60e684.chunk.js.map": "/MonthlyExpenseTracker/static/js/2.4b60e684.chunk.js.map",
+    "index.html": "/MonthlyExpenseTracker/index.html",
+    "static/css/main.de05927a.chunk.css.map": "/MonthlyExpenseTracker/static/css/main.de05927a.chunk.css.map",
+    "static/js/2.4b60e684.chunk.js.LICENSE.txt": "/MonthlyExpenseTracker/static/js/2.4b60e684.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0cfb816.js",
+    "static/js/2.4b60e684.chunk.js",
+    "static/css/main.de05927a.chunk.css",
+    "static/js/main.ea562fdb.chunk.js"
+  ]
+}
