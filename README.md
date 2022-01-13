@@ -8,8 +8,8 @@ These product will be listed down, year wise which would contain all the details
 All the Expense which were added to the list will be calculated and You will get the bar chart of monthly Expenses you made.Which will help you track your monthly Expense, and will also let you know were you spent more money this year 😟😟🤑🤑💵💵
 
 The project uses Reactjs library and css for styling.
-
-
+The website is hosted online check the link below to view the live model:
+https://kaustub1234.github.io/MonthlyExpenseTracker/
 
 ## Features
 
