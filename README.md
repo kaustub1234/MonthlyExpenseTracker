@@ -11,7 +11,7 @@ The project uses Reactjs library and css for styling.
 
 ## Live Demo
 the project is hosted live on below link:
-https://kaustub1234.github.io/Movies360/365MoviesProject/
+https://kaustub1234.github.io/MonthlyExpenseTracker/
 
 ## Features
 
