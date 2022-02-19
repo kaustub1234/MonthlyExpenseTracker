@@ -9,7 +9,9 @@ All the Expense which were added to the list will be calculated and You will get
 
 The project uses Reactjs library and css for styling.
 
-
+## Live Demo
+the project is hosted live on below link:
+https://kaustub1234.github.io/MonthlyExpenseTracker/
 
 ## Features
 
