@@ -34,7 +34,6 @@ const ExpenseItem = (props) => {
     }
   };
 
-
   return (
     <li>
       {deleteModal && (
